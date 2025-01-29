@@ -1,0 +1,28 @@
+.body {
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        background: url(../Image/po.jpg) no-repeat;
+        background-size: cover;
+        background-position: center;
+        
+}
+
+.body h1 {
+    color: #fff;
+    font-size: 24px;
+    
+}
+
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
